@@ -1,4 +1,4 @@
-# University-group-projects
+# University group projects
 
 ### Automated Greenhouse Climate Control (TIA Portal)
 

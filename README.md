@@ -5,6 +5,7 @@
 This project involved modeling, simulating, and visualizing an automated climate control system for a smart greenhouse using Siemens TIA Portal.  
 
 **Course:** Plant and Process Automation
+
 **Project collaborators:** Marina Branilović, Jazz Richard Greblo, Leonard Mikša
 
 Key features:
@@ -60,6 +61,7 @@ Note:
 ### Comparison of Features of Noisy and Filtered Speech Signals (Upcoming)
 
 **Course:** Computer Speech and Language Processing
+
 **Collaborators:** Jazz Richard Greblo, Leonard Mikša
 
 Key features:

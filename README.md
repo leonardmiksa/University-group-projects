@@ -23,9 +23,9 @@ Tools used:
 The final system was fully simulated in TIA Portal with a functional HMI and dynamic process visualization.
 
 Notes:  
-> While the system worked perfectly during laboratory simulations on a Siemens S7-1200 PLC, the implementation as designed would be heavily impractical for real-world deployment due to the control logic
-> All the flaws for real-world implementation are extensively described in the project report (University-group-projects/report_greenhouse_control.pdf)
-> **The project remains an academic exercise in modeling, control, and automation logic development**
+- While the system worked perfectly during laboratory simulations on a Siemens S7-1200 PLC, the implementation as designed would be heavily impractical for real-world deployment due to the control logic
+- All the flaws for real-world implementation are extensively described in the project report (University-group-projects/report_greenhouse_control.pdf)
+- **The project remains an academic exercise in modeling, control, and automation logic development**
 
 
 ---

@@ -1,6 +1,6 @@
 # University group projects
 
-### Automated Greenhouse Climate Control (TIA Portal)
+### 1. Automated Greenhouse Climate Control (TIA Portal)
 
 This project involved modeling, simulating, and visualizing an automated climate control system for a smart greenhouse using Siemens TIA Portal.  
 
@@ -35,7 +35,7 @@ Notes:
 ---
 
 
-### Room Air Temperature Control Simulation (Python)
+### 2. Room Air Temperature Control Simulation (Python)
 
 Simulation of a room air temperature regulation process using a PID controller. This work was developed independently.
 
@@ -58,7 +58,7 @@ Note:
 ---
 
 
-### Comparison of Features of Noisy and Filtered Speech Signals (Upcoming)
+### 3. Comparison of Features of Noisy and Filtered Speech Signals (Upcoming)
 
 **Course:** Computer Speech and Language Processing
 

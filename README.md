@@ -34,3 +34,20 @@ Notes:
 ---
 
 
+### Room Air Temperature Control Simulation (Python)
+
+Simulation of a room air temperature regulation process using a PID controller.  
+
+Key features:
+- Heating element behavior
+- Room thermal capacity and losses
+- Sensor behavior and external disturbances
+
+Tools used:
+- Python
+- Spyder IDE
+
+Note:  
+- The project models physical behaviors realistically but simplifies aspects like anti-windup compensation for educational clarity.
+
+[> 📎 Full project report (in Croatian) is available in the provided PDF file.](report_room_temperature_control.pdf)

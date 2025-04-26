@@ -27,7 +27,8 @@ Notes:
 - All the flaws for real-world implementation are extensively described in the project report 
 - **The project remains an academic exercise in modeling, control, and automation logic development**
 
-[> 📎 Full project report (in Croatian) is available in the provided PDF file.](automated-greenhouse-control/report_greenhouse_control.pdf)
+[> 📎 Full project report (in Croatian) is available in the provided PDF file.](University-group-projects/report_greenhouse_control.pdf)
+[> 📎 Full presentation (in Croatian) is available in the provided PDF file.](University-group-projects/presentation_greenhouse_control.pdf)
 
 ---
 
